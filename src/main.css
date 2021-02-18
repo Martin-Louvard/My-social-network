@@ -1,0 +1,16 @@
+.nav-element{
+ margin: 5px;
+ text-decoration: none;
+ color: black
+}
+
+nav{
+    margin: 3vh;
+    padding: 1vh;
+    border-bottom: 1px solid black;
+}
+
+main{
+    margin: 3vh;
+    padding: 1vh;
+}
